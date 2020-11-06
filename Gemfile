@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-gem 'sorbet', '0.5.5994'
+gem 'sorbet', '0.5.5991'
 gem 'sorbet-runtime'
